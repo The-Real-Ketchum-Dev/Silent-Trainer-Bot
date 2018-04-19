@@ -9,7 +9,7 @@ class Weakness:
         self.bot = bot
 
     @commands.command()
-    async def weaknesschart(self):
+    async def weakness(self, sub command):
         """Shows the weakness of each Pokemon and more!!"""
 
         # Command function
