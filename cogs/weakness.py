@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 
 
-class Mycog:
-    """My custom cog that does stuff!"""
+class Weakness:
+    """A Weakness Command to help with Pokemon"""
 
     def __init__(self, bot):
         self.bot = bot
@@ -17,4 +17,4 @@ class Mycog:
 
     
 def setup(bot):
-    bot.add_cog(Mycog(bot))
+    bot.add_cog(Weakness(bot))
