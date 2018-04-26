@@ -1,0 +1,26 @@
+{
+    "350121907191808001" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "372149300765130754" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "424617371031044127" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "432376387605626880" : {
+        "AGREE_CHANNEL" : "437680759093067786",
+        "AGREE_MSG" : "Welcome! Hope you decide you want to become apart of the team today! by saying I Accept you will then be moved into the team role! Make sure to check out the <#434544322696970250> and accept them as well. Any additional info can be found in <#434304246276685825> thanks for joining!",
+        "ENABLED" : true,
+        "ROLE" : "434538893245939722"
+    }
+}

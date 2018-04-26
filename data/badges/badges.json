@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "270733310840274944",
+      "name": "The-Real-Ketchum-Dev",
+      "record": {
+          "win": "1",
+          "lose": "4"
+          },
+      "inventory": [
+	    {
+		  "Badge": "Volcano Badge",
+		  "quantity": "1"
+		},
+		{
+		  "Badge": "Cascade Badge",
+		  "quantity": "1"
+		}
+	  ]
+    },
+    {
+      "id": "265565197496745984",
+      "name": "Vape",
+      "record": {
+          "win": "8",
+          "lose": "5"
+          },
+      "inventory": [
+        {
+          "Item": "Volcano Badge",
+          "quantity": "1"
+        },
+        {
+          "Item": "Cascade Badge",
+          "quantity": "1"
+        }
+      ]
+    }
+  ]
+}
