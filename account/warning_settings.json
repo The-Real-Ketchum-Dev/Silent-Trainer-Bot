@@ -1,0 +1,6 @@
+{
+    "432376387605626880" : {
+        "kick_message" : "**We are sorry to see you going but you were warned! Bye Felicia!**",
+        "warn_message" : "user.mention **You have been warned!  Strike 2 will result in a shadow ban of the server and Strike 3 will result in a ban. The limit here is warn.limit**\n\n`Current Count:`\n`warn.count`"
+    }
+}
