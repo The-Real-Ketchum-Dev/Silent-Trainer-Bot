@@ -1,0 +1,31 @@
+{
+    "432376387605626880" : {
+        "sniper" : {
+            "author" : "236856961478557696",
+            "channel" : "434544899455451146",
+            "command" : "snipe",
+            "name" : "sniper",
+            "repeat" : true,
+            "starttime" : 1524653201.706853,
+            "timedelta" : 14400
+        },
+        "snipest" : {
+            "author" : "236856961478557696",
+            "channel" : "437785718144630794",
+            "command" : "snipe",
+            "name" : "snipest",
+            "repeat" : true,
+            "starttime" : 1524653235.01699,
+            "timedelta" : 14400
+        },
+        "sniping" : {
+            "author" : "236856961478557696",
+            "channel" : "432376387605626882",
+            "command" : "snipe",
+            "name" : "sniping",
+            "repeat" : true,
+            "starttime" : 1524653164.630707,
+            "timedelta" : 14400
+        }
+    }
+}

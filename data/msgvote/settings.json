@@ -1,0 +1,10 @@
+{
+    "bot" : false,
+    "channels_enabled" : [
+        "434580534220554250"
+    ],
+    "dn_emoji" : "\ud83d\udc4e",
+    "duration" : 84400,
+    "threshold" : 0,
+    "up_emoji" : "\ud83d\udc4d"
+}

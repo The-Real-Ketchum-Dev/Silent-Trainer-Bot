@@ -1,0 +1,196 @@
+{
+    "Servers" : {
+        "432376387605626880" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Manual",
+                "Shop Name" : "Silent Trainers Shop",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Shop Role" : null,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {
+                "236856961478557696" : {
+                    "180700cc-5f7b-4943-8b87-e4c08ee6f47f" : {
+                        "Confirmation Number" : "180700cc-5f7b-4943-8b87-e4c08ee6f47f",
+                        "Item" : "Volcano Badge",
+                        "Name" : "\u0f12T\u1d00\u036as\u0364\u029c\u1d0b\u1d07\u1d1b\u1d04\u029c\u036c\u1d1c\u0364\u1d0d\u0363L \u2122\u0f12",
+                        "Status" : "Pending",
+                        "Time Stamp" : "2018-04-14 23:23:16"
+                    }
+                }
+            },
+            "Shop List" : {
+                "1 Free Pokemon" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 100000000,
+                    "Item Name" : "1 Free Pokemon",
+                    "Members Only" : "No",
+                    "Quantity" : 20
+                },
+                "Ash Ketchum Hat" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 1500,
+                    "Item Name" : "Ash Ketchum Hat",
+                    "Members Only" : "No",
+                    "Quantity" : 30
+                },
+                "Bacon" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 1000,
+                    "Item Name" : "Bacon",
+                    "Members Only" : "No",
+                    "Quantity" : 13
+                },
+                "Custom Role" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 10000000,
+                    "Item Name" : "Custom Role",
+                    "Members Only" : "No",
+                    "Quantity" : 5
+                },
+                "Daycare Ticket (Lvl 100)" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 1000000,
+                    "Item Name" : "Daycare Ticket (Lvl 100)",
+                    "Members Only" : "No",
+                    "Quantity" : 20
+                },
+                "Fishing Rod" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 5000,
+                    "Item Name" : "Fishing Rod",
+                    "Members Only" : "No",
+                    "Quantity" : 25
+                },
+                "Silent Trainers Nikes" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 2500,
+                    "Item Name" : "Silent Trainers Nikes",
+                    "Members Only" : "No",
+                    "Quantity" : 50
+                }
+            },
+            "Users" : {
+                "236856961478557696" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Rainbow Badge" : {
+                            "Item Name" : "Rainbow Badge",
+                            "Item Quantity" : 1
+                        },
+                        "Volcano Badge" : {
+                            "Item Name" : "Volcano Badge",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "265565197496745984" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Bacon" : {
+                            "Item Name" : "Bacon",
+                            "Item Quantity" : 1
+                        },
+                        "Rainbow Badge" : {
+                            "Item Name" : "Rainbow Badge",
+                            "Item Quantity" : 1
+                        },
+                        "Soul Badge" : {
+                            "Item Name" : "Soul Badge",
+                            "Item Quantity" : 1
+                        },
+                        "Volcano Badge" : {
+                            "Item Name" : "Volcano Badge",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "335289862674579461" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Soul Badge" : {
+                            "Item Name" : "Soul Badge",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "336707358505959432" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Rainbow Badge" : {
+                            "Item Name" : "Rainbow Badge",
+                            "Item Quantity" : 1
+                        },
+                        "Volcano Badge" : {
+                            "Item Name" : "Volcano Badge",
+                            "Item Quantity" : 2
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "360828289561919500" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Bacon" : {
+                            "Item Name" : "Bacon",
+                            "Item Quantity" : 1
+                        },
+                        "Boom" : {
+                            "Item Name" : "Boom",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "387129129004302336" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Boom" : {
+                            "Item Name" : "Boom",
+                            "Item Quantity" : 1
+                        },
+                        "Soul Badge" : {
+                            "Item Name" : "Soul Badge",
+                            "Item Quantity" : 1
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "410795571771605004" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "418364415856082954" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                }
+            }
+        }
+    },
+    "Version" : "2.2.10"
+}
